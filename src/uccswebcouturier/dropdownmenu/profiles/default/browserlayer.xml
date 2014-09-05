@@ -1,0 +1,4 @@
+<layers>
+    <layer name="uccswebcouturier.dropdownmenu"
+           interface="uccswebcouturier.dropdownmenu.browser.interfaces.IDropdownSpecific" />
+</layers>
