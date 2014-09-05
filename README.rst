@@ -1,3 +1,5 @@
+Files renamed.  May not install
+
 uccswebcouturier.dropdownmenu
 =========================
 
